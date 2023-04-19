@@ -6,5 +6,5 @@ Profesor: Marvin Solano Campos
 Participantes:
 - Andrés Alvarado Brenes
 - Joel García Rojas
-- Leiva Aguilar Esteban
-- Tellez Mena Kersy
+- Esteban Leiva Aguilar
+- Kersy Tellez Mena
